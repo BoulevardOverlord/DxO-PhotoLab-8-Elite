@@ -1,0 +1,23 @@
+{
+  "repo": "dxo-photolab-8-elite",
+  "product": "DxO PhotoLab 8 Elite",
+  "kind": "creative",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "raw-photo",
+  "topics": [
+    "dxo-photolab",
+    "optics-module-desk",
+    "upoint-local-windows",
+    "photolab-8",
+    "how-to-install-photolab",
+    "photolab-desktop-package",
+    "film-pack-suite",
+    "raw-horizon-tools",
+    "elite-photo-finish",
+    "dxo-photolab-elite"
+  ],
+  "site": "toolix.me"
+}
